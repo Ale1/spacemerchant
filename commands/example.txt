@@ -1,0 +1,31 @@
+add sector Romulan
+add sector Borg
+add sector Dominion
+add sector Vulcan
+print sectors
+glob is I
+prok is V
+pish is X
+tegj is L
+glob glob Silver is 34 Credits
+glob prok Gold is 57800 Credits
+pish pish Iron is 3910 Credits
+how much is pish tegj glob glob ?
+how many Credits is glob prok Silver ?
+how many Credits is glob Gold ?
+how many Credits is glob prok Iron ?
+add sector Klingon
+change sector to Klingon
+khan is I
+bog is V
+grak is X
+bram is L
+khan bog Plutonium is 96 Credits
+bram Water is 17800 Credits
+how much is bram bog ?
+how many Credits is grak khan khan Water ?
+khan is bazillion
+how many Credits is grak Hamburgers ?
+Enchiladas Dirt is 400 Credits
+add sector Vulcan
+how much wood does a wood chuck chuck ?
